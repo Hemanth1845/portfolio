@@ -6,6 +6,9 @@ server/node_modules/
 # Production Build
 client/dist/
 
+# Netlify State & Metadata
+.netlify/
+
 # Environment Variables
 server/.env
 .env
